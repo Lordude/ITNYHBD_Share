@@ -1,0 +1,21 @@
+red : BF0000
+cream: F7F3ED
+brown : 5E4723
+orange: C87F1F
+leather brown : 9A511F
+pale green : 96B08E
+
+
+*Radio Albedo a envoyer a BELLE FACE
+*Lamps_d for albedo
+
+
+*****
+TO LOOK FOR
+
+-Plants
+-Vase
+-speaker / systeme de son
+-tite lumiere
+-des choses ?
+-kitchenware ( cauldron, frying pan)
