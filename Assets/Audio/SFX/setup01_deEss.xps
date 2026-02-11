@@ -1,0 +1,20 @@
+<PresetXMLTree version="2">
+    <Preset Name="deEss" GenericType="RNEQ">
+        <PresetHeader>
+            <PluginName>REQ</PluginName>
+            <PluginSubComp>RQ2S</PluginSubComp>
+            <PluginVersion>10.0.55.73</PluginVersion>
+            <ReadOnly>false</ReadOnly>
+        </PresetHeader>
+        <PresetData Setup="CURRENT">
+            <Parameters Type="RealWorld">1 0 -11.5 10300 1.6200000000000001066 0 0 0 351 0.80000000000000004441
+0 0 0 351 0.80000000000000004441 0 0 0 2890
+0.80000000000000004441 0 0 0 2890 0.80000000000000004441 1 0 -14.699999999999999289
+2134 0.41000000000000003109 1 0 -11.5 10300 1.6200000000000001066 0 0
+0 351 0.80000000000000004441 0 0 0 351 0.80000000000000004441 0
+0 0 2890 0.80000000000000004441 0 0 0 2890 0.80000000000000004441
+1 0 -14.699999999999999289 2134 0.41000000000000003109 0 0 * *
+* * * * 0 * </Parameters>
+        </PresetData>
+    </Preset>
+</PresetXMLTree>
