@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Glass
+  - Monster
+  - Monster_target
+  - Monster_targetB
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - item
+  - postFX
+  - DiningRoom
+  - secretView
+  - Corridor_1F
+  - Living room
+  - Bedroom
+  - BathRoom_2F
+  - Office
+  - altView1
+  - Basement
+  - bathroom_1F
+  - Laundryroom
+  - Corridor_2F
+  - outdoor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
