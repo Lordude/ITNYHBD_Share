@@ -62,6 +62,10 @@ ExportedObj/
 # Unity3D generated file on crash reports
 sysinfo.txt
 
+#Audio assets
+*.wav
+*.mp3
+
 #3D assets
 *.tga
 *.fbx
