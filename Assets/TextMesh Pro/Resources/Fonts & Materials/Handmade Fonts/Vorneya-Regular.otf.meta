@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3d875195c49cbd54b8fefc9a375ed1b2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Vorneya
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b4369dfd8b46f89499233625cf01b61c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

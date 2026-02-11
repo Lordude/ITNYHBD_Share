@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5f4c656dfbd65d647bf464df86f9940d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Korduv
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1a56ca139ef05494ba5a86421df5bf52, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

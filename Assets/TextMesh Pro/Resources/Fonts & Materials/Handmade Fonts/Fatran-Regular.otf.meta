@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e9e045ae8a01d6a4d9227b7b9a81ca1c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Fatran
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 80db55a680287b64eb1702617963f065, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: be906e2bc1380d1499e7fb9daf4060d6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Fithis
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 230eaae46f8a7314e9962ca125c74cab, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

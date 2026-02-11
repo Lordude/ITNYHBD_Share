@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0c87cfb82203ac645a7c66359fa17fac
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Rotreos
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a832dfdd47edb1d4aa18d759d108a696, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2d35fecb7e38df84e8882efef4eb76f2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Dylan
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 560a0d576a575314199b319af850cba0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

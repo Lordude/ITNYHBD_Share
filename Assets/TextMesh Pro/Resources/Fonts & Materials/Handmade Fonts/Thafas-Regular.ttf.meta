@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cf6f032dd5141de40a4fef719fddfc86
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Thafas
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a01b776a5bd989349a4e6ed155503bc7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

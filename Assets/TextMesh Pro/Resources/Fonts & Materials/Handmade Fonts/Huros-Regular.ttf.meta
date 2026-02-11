@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6f26972af1202c545b7206e150811b7a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Huros
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8a0d7f6e9eefea04d8ac038cfef731a9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

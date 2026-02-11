@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 70413c50d98ec6846a57330f9e125f58
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Ysabeau
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 10b4ccff450324846a38f8d4360393f8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

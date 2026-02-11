@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 775fb1e8b086d0f48a4ad74a543c6b4c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Thudeon
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f20a28dc92d3ddf4a96886de7ec115fa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

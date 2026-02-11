@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: aed7823b4870eea4bb6579ac0854e736
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Yioze
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 32538dddd1e51d241ac86cb1db40a51e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

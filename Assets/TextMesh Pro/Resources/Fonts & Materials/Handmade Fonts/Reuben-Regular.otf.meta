@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2de366e7e42eb3445a99d34dc89281a7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Reuben
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: fc01ba62247240c44bf7b769d29324a6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

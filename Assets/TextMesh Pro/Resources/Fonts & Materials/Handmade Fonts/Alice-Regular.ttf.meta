@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 294b6a0032aee6b40aca75ee834f2f9e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Alice
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 53bd68df8c7600a49b685217ef728cc7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

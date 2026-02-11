@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: dfe38997acb76ad4dbed13b8b45caecd
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Gebrufon
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3bfb0f4226871f640a76b3fdaef5b845, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

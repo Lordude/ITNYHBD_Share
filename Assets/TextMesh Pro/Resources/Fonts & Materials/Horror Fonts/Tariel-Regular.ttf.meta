@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8e1d2d1dbd903c443b621cd8b5070a7e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Tariel
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 10e1f4e80a138a7429585c3a9b3d549f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
